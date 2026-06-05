@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm: Muhammad Anas Lodhi<br><br>Aspiring Software Engineer | MERN Stack Developer | Agentic AI Automations<br><br>🔭 I'm currently working on: Full-stack modern web applications integrated with Agentic AI and vector databases (like Qdrant).<br><br>🌱 I'm currently learning: Advanced automated workflows using n8n, Make, and Model Context Protocol (MCP).<br><br>👯 I'm looking to collaborate on: Innovative AI chatbots, voice agents, and full-stack MERN projects.<br><br>💬 Ask me about: React, Node.js, TypeScript, Supabase, and AI API Integrations.<br><br>📫 How to reach me:<br>💼 LinkedIn: https://www.linkedin.com/in/muhammad-anas-lodhi-67095725a/<br>📧 Email: anaslodhi32@gmail.com
+Hi 👋, I'm: Muhammad Anas Lodhi<br><br>Aspiring Software Engineer | MERN Stack Developer | Agentic AI Automations<br><br>🔭 I'm currently working on: Full-stack modern web applications integrated with Agentic AI and vector databases (like Qdrant).<br><br>🌱 I'm currently learning: Advanced automated workflows using n8n, Make, and Model Context Protocol (MCP).<br><br>👯 I'm looking to collaborate on: Innovative AI chatbots, voice agents, and full-stack MERN projects.<br><br>📫 How to reach me:<br>💼 LinkedIn: https://www.linkedin.com/in/muhammad-anas-lodhi-67095725a/<br>📧 Email: anaslodhi32@gmail.com
 
 
 ## 🌐 Socials:
